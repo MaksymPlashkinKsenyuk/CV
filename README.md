@@ -42,4 +42,5 @@ This project uses **Bootstrap** as the primary CSS framework to enhance layout r
 ---
 
 ### Figma link: 
-https://www.figma.com/design/cSkzq5jLMZmVmoaG0rYehb/FigmaCV?node-id=0-1&t=PaiJBKDkCd4VSDQc-1
+[Figma design here](https://www.figma.com/design/cSkzq5jLMZmVmoaG0rYehb/FigmaCV?node-id=0-1&t=PaiJBKDkCd4VSDQc-1)
+
